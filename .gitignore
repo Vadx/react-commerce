@@ -1,0 +1,9 @@
+dist
+node_modules
+npm-debug.log
+.vscode/
+*/coverage
+r&d/assets
+.idea
+.DS_Store
+*.map
