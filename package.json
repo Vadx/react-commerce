@@ -18,7 +18,8 @@
     "superagent": "^3.5.2"
   },
   "devDependencies": {
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "gh-pages": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
